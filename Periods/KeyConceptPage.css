@@ -1,0 +1,73 @@
+body {
+
+	font-family: Verdana, Arial, Calibri, Sans-serif;
+
+}
+
+header {
+
+	background-color: rgb(150, 150, 150);
+	color: white;
+	padding: 30px;
+	text-align: left;
+
+}
+
+#content {
+
+	padding: 20px;
+	margin-left: 220px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+
+}
+
+#content p {
+
+	margin-left: 20px;
+	padding-bottom: 20px;
+
+}
+
+#longQuote {
+
+	padding-left: 20px;
+	font-style: italic;
+
+}
+
+#links {
+
+	float: left;
+	margin: 20px;
+	width: 200px;
+
+}
+
+#linksheader {
+
+	padding-left: 20px;
+
+}
+
+#links ul {
+
+	list-style-type: none;
+
+}
+
+#content li {
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+footer {
+
+	background-color: rgb(150, 150, 150);
+	color: white;
+	padding: 10px;
+	text-align: right;
+	clear: both;
+}
